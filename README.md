@@ -1,0 +1,6 @@
+MONGODB_URI = "mongodb+srv://vishsanjeev99:3djUdO3VW8Qql9oC@bgremoval.xzgzu.mongodb.net"
+CLOUDINARY_NAME = "dmnym7mnf"
+CLOUDINARY_API_KEY = "929985144996623"
+CLOUDINARY_SECRET_KEY = "1pb9r-04gAtMwzD5ZjTRB9_1cqI"
+JWT_SERCET = "FoodDel@@123#bySanjiv"
+STIPE_SECRET = "sk_test_51PzVZhP2ox7QBZEwqGSdqf4bZ0MNMAR8LmxkuGwNsfCLhAWQkt9bOQWPwRi2AFxv4A9owXCWnuLn8EClvwKbMF1Z00bOAIDH90"
